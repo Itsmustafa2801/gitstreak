@@ -22,6 +22,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/gitstreak.git"
+    "url": "git+https://github.com/itsmustafa2801/gitstreak.git"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "cli-progress": "^3.12.0",
+    "figlet": "^1.11.0",
+    "gradient-string": "^3.0.0",
+    "node-notifier": "^10.0.1",
+    "ora": "^9.3.0"
   }
 }
