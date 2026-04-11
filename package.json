@@ -1,0 +1,27 @@
+{
+  "name": "gitstreak",
+  "version": "1.0.0",
+  "description": "CLI tool to track and maintain your GitHub commit streak",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "gitstreak": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "github",
+    "streak",
+    "commit",
+    "productivity",
+    "cli"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/gitstreak.git"
+  }
+}
