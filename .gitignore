@@ -1,0 +1,9 @@
+
+```gitignore
+node_modules/
+.streak.json
+streak.log
+*.txt
+.DS_Store
+*.log
+.env
